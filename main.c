@@ -13,13 +13,13 @@ int main() {
         return 0;
     }
     printf("Canh thu hai \n");
-    scanf("%d",&canhThuNhat);
+    scanf("%d",&canhThuHai);
     if (canhThuHai <= 0) {
         printf("Do dai mot canh tam giac khong the nho hon hoac bang 0");
         return 0;
     }
     printf("Canh thu ba \n");
-    scanf("%d",&canhThuNhat);
+    scanf("%d",&canhThuBa);
     if (canhThuBa <= 0) {
         printf("Do dai mot canh tam giac khong the nho hon hoac bang 0");
         return 0;
